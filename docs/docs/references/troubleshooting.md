@@ -188,4 +188,4 @@ $ trivy image --reset
 ```
 
 [air-gapped]: ../advanced/air-gap.md
-[redis-cache]: ../../vulnerability/examples/cache/#cache-backend
+[redis-cache]: ../configuration/cache.md#cache-backend

@@ -6,7 +6,7 @@ Thank you for taking interest in contributing to Trivy!
 - The issue should clearly explain the reason for opening, the proposal if you have any, and any relevant technical information.
 
 ## Wrong detection
-Trivy depends on [multiple data sources](https://aquasecurity.github.io/trivy/latest/docs/vulnerability/detection/data-source/).
+Trivy depends on [os](../../docs/scanner/vulnerability/os.md#data-sources) and [language](../../docs/scanner/vulnerability/language/index.md#data-sources) data sources.
 Sometime these databases contain mistakes.
 
 If Trivy can't detect any CVE-IDs or shows false positive result, at first please follow the next steps:

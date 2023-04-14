@@ -183,7 +183,7 @@ Hello from Trivy demo plugin!
 ```
 
 ## Example
-https://github.com/aquasecurity/trivy-plugin-kubectl
+[trivy-plugin-kubectl]
 
 [kubectl]: https://kubernetes.io/docs/tasks/extend-kubectl/kubectl-plugins/
 [helm]: https://helm.sh/docs/topics/plugins/
